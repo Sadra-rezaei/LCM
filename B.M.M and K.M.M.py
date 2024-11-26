@@ -11,4 +11,4 @@ for i in range(greater, first_number*second_number+1, greater):
         Kmm = i
         break
 Bmm = int((first_number * second_number) / Kmm)
-print(Bmm)
+print(Bmm , Kmm)
